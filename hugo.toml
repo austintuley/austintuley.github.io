@@ -14,7 +14,7 @@ publishDir   = "public"
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Blue Team | Threat Hunter | Pentester | Development"
+  homeSubtitle = "Security Analyst | Threat Hunter | Pentester | DevOps"
 
   [params.logo]
     logoMark     = ">"
