@@ -2,6 +2,7 @@ baseURL = 'https://www.austintuley.com'
 languageCode = 'en-us'
 title = 'Austin Tuley'
 theme = 'hello-friend-ng'
+paginate     = 10
 
 archetypeDir = "archetypes"
 contentDir   = "content"
@@ -10,11 +11,18 @@ layoutDir    = "layouts"
 publishDir   = "public"
 
 [params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
 
   # Home subtitle of the index page.
   #
   homeSubtitle = "Security Analyst | Threat Hunter | Pentester | DevOps"
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
 
   [params.logo]
     logoMark     = ">"
@@ -28,6 +36,8 @@ publishDir   = "public"
     # logoCursorAnimate  = "2s"
     # Append the current url pathname to logoText 
     logoCursorPathname = true
+
+
 
   # Enabel Theme Toggle
     # enableThemeToggle = true
