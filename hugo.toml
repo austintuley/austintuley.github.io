@@ -10,7 +10,7 @@ layoutDir    = "layouts"
 publishDir   = "public"
 
 [params]
-    dateformNum     = "2006-01-02"
+  dateformNum     = "2006-01-02"
 
   # Home subtitle of the index page.
   #
@@ -30,7 +30,7 @@ publishDir   = "public"
     logoCursorPathname = true
 
   # Enabel Theme Toggle
-    enableThemeToggle = true
+    # enableThemeToggle = true
 
   # Social icons
   # [[params.social]]
