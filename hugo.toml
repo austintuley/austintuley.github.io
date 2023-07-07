@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Security Analyst | Threat Hunter | Pentester | DevOps"
+  homeSubtitle = "Linux Administration | DevOps | Security Analysis | Penetration Testing"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -190,12 +190,14 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    subtitle  = "Hello Friend NG Theme"
+    #  subtitle  = "Hello Friend NG Theme"
+    subtitle = "Sec/DevOps/Lab"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.fr]
-    subtitle  = "Hello Friend NG Theme"
+    #  subtitle  = "Hello Friend NG Theme"
+    subtitle = "Sec/DevOps/Lab"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
@@ -205,9 +207,13 @@ disableHugoGeneratorInject = false
     name       = "about"
     url        = "about/"
   [[menu.main]]
-    identifier = "posts"
-    name       = "posts"
-    url        = "posts/"
+    identifier = "linux"
+    name       = "linux"
+    url        = "linux/"
+  [[menu.main]]
+    identifier = "homelab"
+    name       = "homelab"
+    url        = "homelab/"
   [[menu.main]]
     identifier = "wip"
     name       = "wip"
