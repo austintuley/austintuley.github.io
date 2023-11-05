@@ -206,14 +206,14 @@ disableHugoGeneratorInject = false
     identifier = "about"
     name       = "about"
     url        = "about/"
-  [[menu.main]]
-    identifier = "linux"
-    name       = "linux"
-    url        = "linux/"
-  [[menu.main]]
-    identifier = "homelab"
-    name       = "homelab"
-    url        = "homelab/"
+  # [[menu.main]]
+    # identifier = "linux"
+    # name       = "linux"
+    # url        = "linux/"
+  # [[menu.main]]
+    # identifier = "homelab"
+    # name       = "homelab"
+    # url        = "homelab/"
   [[menu.main]]
     identifier = "wip"
     name       = "wip"
