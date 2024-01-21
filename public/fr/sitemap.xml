@@ -26,18 +26,6 @@
                 href="https://www.austintuley.com/fr/categories/"
                 />
   </url><url>
-    <loc>https://www.austintuley.com/fr/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.austintuley.com/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.austintuley.com/fr/series/"
-                />
-  </url><url>
     <loc>https://www.austintuley.com/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"

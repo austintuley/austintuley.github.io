@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.austintuley.com/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.austintuley.com/</loc>
     <xhtml:link
                 rel="alternate"
@@ -24,18 +27,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.austintuley.com/categories/"
-                />
-  </url><url>
-    <loc>https://www.austintuley.com/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.austintuley.com/fr/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.austintuley.com/series/"
                 />
   </url><url>
     <loc>https://www.austintuley.com/tags/</loc>
