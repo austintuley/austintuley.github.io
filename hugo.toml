@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Linux Administration | DevOps | Security Analysis | Penetration Testing"
+  homeSubtitle = "System Administration | Penetration Testing | Security Analysis | DevOps  "
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
