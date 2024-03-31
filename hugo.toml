@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "System Administration | Bug Bounty | Penetration Testing | Security Analysis | DevOps"
+  homeSubtitle = "System Administration | Bug Bounty | Penetration Testing | Security Analysis"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
